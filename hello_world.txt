@@ -1,0 +1,5 @@
+"Hi, I am learning Git. Up to now I have learned that you can create a directory
+ in the command line using mkdir, them you create a repository in GitHub and clone
+  the SSH adress in your command line, using git clone, then you can modify files,
+   send them to the staged area, using git add, them you can commit it using git
+    commit -m "Add (name of the file staged)""
